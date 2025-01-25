@@ -64,6 +64,6 @@ registos_correspondentes = registros_faltantes[registros_faltantes['ID'].isin(df
 
 df_registros_faltantes = pd.DataFrame(registos_correspondentes)
 
-print(registos_correspondentes)
+
 
 
